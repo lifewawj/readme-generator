@@ -23,9 +23,9 @@
   a
 
   ## License
-  This project is licensed under the MIT, GNU GPL v3, Apache 2.0, BSD 3-Clause license.
-  undefined
-  
+  This project is licensed under the MIT license.
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  (https://opensource.org/licenses/MIT)
 
   ## Features
   a

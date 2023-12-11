@@ -4,7 +4,7 @@ function renderLicenseBadge(license) {
   if (license !== "") {
     switch (license) {
       case "MIT":
-        return `![License: ${license}] https://img.shields.io/badge/License-MIT-yellow.svg`;
+        return `![License: ${license}](https://img.shields.io/badge/License-MIT-yellow.svg)`;
     }
   }
 }
