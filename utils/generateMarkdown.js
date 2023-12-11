@@ -5,6 +5,14 @@ function renderLicenseBadge(license) {
     switch (license) {
       case "MIT":
         return `![License: ${license}](https://img.shields.io/badge/License-MIT-yellow.svg)`;
+      case "GNU GPL v3":
+        return `![License: ${license}](https://img.shields.io/badge/License-GPLv3-blue.svg)`;
+      case "Apache 2.0":
+        return `![License: ${license}](https://img.shields.io/badge/License-Apache_2.0-blue.svg)`
+      case "BSD 3-Clause":
+        return `![License: ${license}](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)`
+      default:
+        return "";
     }
   }
 }
@@ -16,6 +24,12 @@ function renderLicenseLink(license) {
     switch (license) {
       case "MIT":
         return "(https://opensource.org/licenses/MIT)"
+      case "GNU GPL v3":
+        return "(https://www.gnu.org/licenses/gpl-3.0)"
+      case "Apache 2.0":
+        return "(https://opensource.org/licenses/Apache-2.0)"
+      case "BSD 3-Clause":
+        return "(https://opensource.org/licenses/BSD-3-Clause)"
       default:
         return "";
     }
@@ -61,8 +75,8 @@ function generateMarkdown(data) {
   ${data.credits}
 
   ## License
-  ${renderLicenseSection(data.license)}
-  ${renderLicenseBadge(data.license)}
+  ${renderLicenseSection(data.license)} <br>
+  ${renderLicenseBadge(data.license)} <br>
   ${renderLicenseLink(data.license)}
 
   ## Features
