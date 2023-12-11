@@ -23,9 +23,9 @@
   a
 
   ## License
-  This project is licensed under the MIT license.
-  ![License: MIT] https://img.shields.io/badge/License-MIT-yellow.svg
-  (https://opensource.org/licenses/MIT)
+  This project is licensed under the MIT, GNU GPL v3, Apache 2.0, BSD 3-Clause license.
+  undefined
+  
 
   ## Features
   a
@@ -38,5 +38,5 @@
 
   ## Questions
   If you have any questions, please contact me at a.
-  You can also visit my GitHub page at
+  You can also visit my GitHub page at https://github.com/a.
   

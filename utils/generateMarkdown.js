@@ -22,6 +22,9 @@ function renderLicenseLink(license) {
   }
 }
 
+function renderUserLink(user) {
+  return "https://github.com/" + user;
+}
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
@@ -73,7 +76,7 @@ function generateMarkdown(data) {
 
   ## Questions
   If you have any questions, please contact me at ${data.email}.
-  You can also visit my GitHub page at
+  You can also visit my GitHub page at ${renderUserLink(data.user)}.
   
 `;
 }
