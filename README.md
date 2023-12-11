@@ -38,7 +38,7 @@
   For users to test out this README Generator.
 
   ## Questions
-  Q: Was this README file created using the Professional README Generator?
+  Q: Was this README file created using the Professional README Generator? <br>
   A: Yes, to get the base of the README content down, and than was edited to improve it even more!
 
   If you have any questions, please contact me at businesswawj@gmail.com.
