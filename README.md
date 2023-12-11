@@ -17,8 +17,9 @@
   Make sure to have NodeJS, NPM, and Inquirer @ 8.2.4 installed to use the application.
 
   ## Usage
-  <video src="assets/README_generator_tutorial.mp4" controls title="Title"></video>
-
+  <!-- ![GIF](assets/README_generator_tutorial.gif) -->
+  [![Video](./assets/README_generator_tutorial.mp4)]
+  
   ## Credits
   I have rewatched my pre-recorded classes of learning NodeJS and used the activities in the UCSD (Univiersity of California San Diego) NodeJS folder section to help me with this project.
 
