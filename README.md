@@ -1,7 +1,7 @@
 # Professional README Generator
 
   ## Description
-  a simple tool to help users generate a README as quickly as possible for their projects!
+  a simple tool to help users generate a README as quickly as possible for their projects! Allowing users to devote more time into developing their projects.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,7 +14,7 @@
   - [Questions](#questions)
 
   ## Installation
-  NodeJS, NPM, and Inquirer @ 8.2.4
+  Make sure to have NodeJS, NPM, and Inquirer @ 8.2.4 installed to use the application.
 
   ## Usage
   *insert video tutorial LINK on how to use here*
