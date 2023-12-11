@@ -14,7 +14,7 @@ const questions = [
     {
         type: 'input',
         name: 'description',
-        messsage: 'Give a brief description of your project?'
+        message: 'Give a brief description of your project?'
     },
     // INSTALLATION
     {
@@ -71,22 +71,30 @@ const questions = [
         name: 'email',
         message: 'What is your email address?'
     }
-    
+
 ];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, generateMarkdown(data)), err => {
+    const licenses = data.license || [];
+    
+    const newData = {
+        ...data,
+        license: licenses.join(', '),
+    };
+
+    fs.writeFile(fileName, generateMarkdown(newData), (err) => {
         err ? console.log(err) : console.log("Success!")
-    }
+    });
 }
+
 
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions)
-    .then((data) => {
-        writeToFile("README.md", data);
-    })
+        .then((data) => {
+            writeToFile("README.md", data);
+        })
 }
 
 // Function call to initialize app
