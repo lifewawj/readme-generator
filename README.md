@@ -14,13 +14,13 @@
   - [Questions](#questions)
 
   ## Installation
-  a
+  NodeJS, NPM, and Inquirer @ 8.2.4
 
   ## Usage
-  a
+  *insert video tutorial LINK on how to use here*
 
   ## Credits
-  a
+  I have rewatched my pre-recorded classes of learning NodeJS and used the activities in the UCSD (Univiersity of California San Diego) NodeJS folder section to help me with this project.
 
   ## License
   This project is licensed under the Apache 2.0 license. <br>
@@ -28,15 +28,19 @@
   (https://opensource.org/licenses/Apache-2.0)
 
   ## Features
-  a
+  Interactive Command-line Interface
+  - A user-friendly command-line interface that guides users through the process of providing information. Use clear prompts and concise instructions.
 
-  ## Contribution
-  a
+  ## How to Contribute?
+  Feel free to test out my Professional README Generator, and give any feedback on how I can improve it.
 
   ## Tests
-  a
+  For users to test out this README Generator.
 
   ## Questions
+  Q: Was this README file created using the Professional README Generator?
+  A: Yes, to get the base of the README content down, and than was edited to improve it even more!
+
   If you have any questions, please contact me at businesswawj@gmail.com.
   You can also visit my GitHub page at https://github.com/lifewawj.
   

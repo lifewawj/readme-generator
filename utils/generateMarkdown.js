@@ -82,7 +82,7 @@ function generateMarkdown(data) {
   ## Features
   ${data.features}
 
-  ## Contribution
+  ## How to Contribute?
   ${data.contribution}
 
   ## Tests

@@ -32,7 +32,7 @@ const questions = [
     {
         type: 'input',
         name: 'credits',
-        message: 'Any Tutorials, or Third-party assets that you would like to credit?'
+        message: 'Any Tutorials, Any Contributors or Third-party assets that you would like to credit?'
     },
     // LICENSE
     {
