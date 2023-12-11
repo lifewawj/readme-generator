@@ -18,7 +18,7 @@
 
   ## Usage
   ![GIF](assets/README_generator_tutorial.gif)
-  [![Click Here to Download Video](./assets/README_generator_tutorial.mp4)]
+  [![Click here to Download Tutorial Video](./assets/README_generator_tutorial.mp4)]
 
 
   ## Credits
