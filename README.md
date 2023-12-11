@@ -25,9 +25,7 @@
   I have rewatched my pre-recorded classes of learning NodeJS and used the activities in the UCSD (Univiersity of California San Diego) NodeJS folder section to help me with this project.
 
   ## License
-  This project is licensed under the Apache 2.0 license. <br>
-  ![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg) <br>
-  (https://opensource.org/licenses/Apache-2.0)
+  This project is under no license.
 
   ## Features
   Interactive Command-line Interface
