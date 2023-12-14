@@ -1,9 +1,11 @@
-// TODO: Include packages needed for this application
+// NPM Packages needed:
+// 'fs' file system helps us access the file system in Node
 const fs = require('fs');
+// Inquirer allows us to gain user Input and be able to use it through CLI "Command Line Interaction"
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown.js')
 
-// TODO: Create an array of questions for user input
+// An array of questions for user input
 const questions = [
     {
         type: 'input',
@@ -74,7 +76,7 @@ const questions = [
 
 ];
 
-// TODO: Create a function to write README file
+// A function to write README file with the collected user data
 function writeToFile(fileName, data) {
     const licenses = data.license || [];
     
@@ -89,7 +91,7 @@ function writeToFile(fileName, data) {
 }
 
 
-// TODO: Create a function to initialize app
+// A function that initalizes making the README.md file with the user data (Calls the writeToFile function)
 function init() {
     inquirer.prompt(questions)
         .then((data) => {
@@ -97,5 +99,5 @@ function init() {
         })
 }
 
-// Function call to initialize app
+// Function Declared
 init();

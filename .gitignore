@@ -1,2 +1,6 @@
+# IGNORED directories
 node_modules/
 .DS_Store/
+
+# IGNORES UCSD Challenge Instructions
+challenge/
