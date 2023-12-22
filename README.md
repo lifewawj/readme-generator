@@ -1,46 +1,71 @@
-# Professional README Generator
+# SVG-Logo-Generator
 
-  ## Description
-  a simple tool to help users generate a README as quickly as possible for their projects! Allowing users to devote more time into developing their projects.
+## Description
 
-  ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Features](#features)
-  - [Contribution](#contribution)
-  - [Tests](#tests)
-  - [Questions](#questions)
+a tool that helps users create a svg file in seconds
 
-  ## Installation
-  Make sure to have NodeJS, NPM, and Inquirer @ 8.2.4 installed to use the application.
+## Table of Contents
 
-  ## Usage
-  ![GIF](assets/README_generator_tutorial.gif)
-  [![Click here to Download Tutorial Video](./assets/README_generator_tutorial.mp4)]
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Features](#features)
+- [Contribution](#contribution)
+- [Tests](#tests)
+- [Questions](#questions)
 
+## Installation
 
-  ## Credits
-  I have rewatched my pre-recorded classes of learning NodeJS and used the activities in the UCSD (Univiersity of California San Diego) NodeJS folder section to help me with this project.
+n/a
 
-  ## License
-  This project is under no license.
+## Usage
 
-  ## Features
-  Interactive Command-line Interface
-  - A user-friendly command-line interface that guides users through the process of providing information. Use clear prompts and concise instructions.
+n/a
 
-  ## How to Contribute?
-  Feel free to test out my Professional README Generator, and give any feedback on how I can improve it.
+## Credits
 
-  ## Tests
-  For users to test out this README Generator.
+n/a
 
-  ## Questions
-  Q: Was this README file created using the Professional README Generator? <br>
-  A: Yes, to get the base of the README content down, and than was edited to improve it even more!
+## License
 
-  If you have any questions, please contact me at businesswawj@gmail.com.
-  You can also visit my GitHub page at https://github.com/lifewawj.
-  
+This project is licensed under the MIT license. <br>
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) <br>
+(https://opensource.org/licenses/MIT)
+
+Copyright (c) [2023] [AJ Arevalo]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Features
+
+n/a
+
+## How to Contribute?
+
+testing out my SVG Generator
+
+## Tests
+
+n/a
+
+## Questions
+
+If you have any questions, please contact me at businesswawj@gmail.com.
+You can also visit my GitHub page at https://github.com/lifewawj.
